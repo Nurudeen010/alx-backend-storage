@@ -1,0 +1,1 @@
+# A NoSQL doesn't mean SQL is absent
